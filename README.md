@@ -18,8 +18,8 @@ economic fundamentals, potentially leading to policies that fail to address the 
 challenges. 
 
 This research seeks to explore the interaction between media coverage, political influence, and public 
-opinion on economic issues. Specifically, it investigates whether being exposed to certain sources of 
-social media platform would change individuals' perceptions, shaping their attitudes and 
+opinion on economic issues. Specifically, it investigates whether being exposed to certain media sources of 
+economic issues would change individuals' perceptions on economy, shaping their attitudes and 
 policy preferences. The data of this study is extracted from 
 [ANES 2020-2022 Social Media Study](https://electionstudies.org/data-center/2020-2022-social-media-study/). 
 
