@@ -38,7 +38,7 @@ creating echo chambers and exposure to misleading or sensationalized narratives 
     2. Individuals perceive economic issues based on preexisting ideological biases and shift public figures to blame accordingly. 
     3. Public perceptions of the economy become more shaped by emotionally charged and misleading narratives
 rather than objective. 
-- Long-Term Outcomes: 
+- **Long-Term Outcomes**: 
     1. Public discourse and political debates focus more on framed economic issues. 
     2. Economic policy preferences become polarized. 
     3. Voter behavior and policy support are driven more by media narratives than by actual economic conditions.
