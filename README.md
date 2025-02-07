@@ -26,21 +26,19 @@ policy preferences. The data of this study is extracted from
 ## Theory of Change
 - Input: Exposure to economic content in social media
 - Mediating Factors: 
-1. Framing Setting: Media selects which economic issues to highlight and how to present them.
-2. Partisan Influence: Politicians and media outlets frame economic issues to align with their agendas, 
-influencing public perception of responsibility.
-3. Selective Exposure & Misinformation:  Individuals engage with media that aligns with their views, 
+    1. Framing Setting: Media selects which economic issues to highlight and how to present them.
+    2. Partisan Influence: Politicians and media outlets frame economic issues to align with their agendas, influencing public perception of responsibility.
+    3. Selective Exposure & Misinformation:  Individuals engage with media that aligns with their views, 
 creating echo chambers and exposure to misleading or sensationalized narratives about economic conditions.
 - Short-Term Outcomes: 
-1. Certain economic issues become more salient in public discourse.
-2. Individuals perceive economic issues based on preexisting ideological biases and shift public figures 
-to blame accordingly. 
-3. Public perceptions of the economy become more shaped by emotionally charged and misleading narratives
+    1. Certain economic issues become more salient in public discourse.
+    2. Individuals perceive economic issues based on preexisting ideological biases and shift public figures to blame accordingly. 
+    3. Public perceptions of the economy become more shaped by emotionally charged and misleading narratives
 rather than objective. 
 - Long-Term Outcomes: 
-1. Public discourse and political debates focus more on framed economic issues. 
-2. Economic policy preferences become polarized. 
-3. Voter behavior and policy support are driven more by media narratives than by actual economic conditions.
+    1. Public discourse and political debates focus more on framed economic issues. 
+    2. Economic policy preferences become polarized. 
+    3. Voter behavior and policy support are driven more by media narratives than by actual economic conditions.
 
 
 
