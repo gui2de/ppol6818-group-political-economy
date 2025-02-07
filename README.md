@@ -11,7 +11,7 @@ In modern democracies, the media plays a crucial role in shaping public opinion 
 economic realities such as inflation, unemployment, and growth rates are driven by complex market forces 
 and policy devisions, the way these issues are presented in the media significantly influences how the 
 public perceives them. Politicians often leverage the media to frame economic conditions in ways that 
-align with their political agendas and expand their political capital [^1]. This strategic framing can 
+align with their political agendas and expand their political capital (Walgrave & Van Aelst, 2016). This strategic framing can 
 amplify economic concerns, mobilize political support, and shift public sentiment, sometimes 
 independently of actual economic conditions. As a result, public discourse may become detached from 
 economic fundamentals, potentially leading to policies that fail to address the root causes of economic 
@@ -22,8 +22,6 @@ opinion on economic issues. Specifically, it investigates whether being exposed 
 social media platform would change individuals' perceptions, shaping their attitudes and 
 policy preferences. The data of this study is extracted from 
 [ANES 2020-2022 Social Media Study](https://electionstudies.org/data-center/2020-2022-social-media-study/). 
-
-[^1]: Walgrave, S., & Van Aelst, P. (2016). Political agenda setting and the mass media. In Oxford research encyclopedia of politics.
 
 ## Theory of Change
 - **Input**: Exposure to economic content in social media
@@ -43,3 +41,4 @@ rather than objective.
     3. Voter behavior and policy support are driven more by media narratives than by actual economic conditions.
 
 ### References
+Walgrave, S., & Van Aelst, P. (2016). Political agenda setting and the mass media. In Oxford research encyclopedia of politics.
