@@ -8,7 +8,7 @@
 
 ## Overview
 In modern democracies, the media plays a crucial role in shaping public opinion on economic issues. While 
-economic realities such as inflation, unemployment, and growth rates are driven by complex market forces 
+economic realities such as inflation, unemployment, wage gaps, housing price increase and growth rates are driven by complex market forces 
 and policy divisions, the way these issues are presented in the media significantly influences how the 
 public perceives them. Politicians often leverage the media to frame economic conditions in ways that 
 align with their political agendas and expand their political capital [^1]. This strategic framing can 
@@ -27,14 +27,14 @@ policy preferences. The data of this study is extracted from
 
 
 ## Theory of Change
-- **Input**: Exposure to economic content in social media
+- **Input**: Exposure to economic content in different types of media 
 - **Mediating Factors**: 
     1. *Framing Setting*: Media selects which economic issues to highlight and how to present them.
     2. *Partisan Influence*: Politicians and media outlets frame economic issues to align with their agendas, influencing public perception of responsibility.
     3. *Selective Exposure & Misinformation*:  Individuals engage with media that aligns with their views, 
 creating echo chambers and exposure to misleading or sensationalized narratives about economic conditions.
 - **Short-Term Outcomes**: 
-    1. Certain economic issues become more salient in public discourse.
+    1. Certain economic issues such as rising prices of goods become more salient in public discourse
     2. Individuals perceive economic issues based on preexisting ideological biases and shift public figures to blame accordingly. 
     3. Public perceptions of the economy become more shaped by emotionally charged and misleading narratives
 rather than objective. 
