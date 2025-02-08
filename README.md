@@ -9,7 +9,7 @@
 ## Overview
 In modern democracies, the media plays a crucial role in shaping public opinion on economic issues. While 
 economic realities such as inflation, unemployment, and growth rates are driven by complex market forces 
-and policy devisions, the way these issues are presented in the media significantly influences how the 
+and policy divisions, the way these issues are presented in the media significantly influences how the 
 public perceives them. Politicians often leverage the media to frame economic conditions in ways that 
 align with their political agendas and expand their political capital [^1]. This strategic framing can 
 amplify economic concerns, mobilize political support, and shift public sentiment, sometimes 
