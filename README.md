@@ -42,5 +42,3 @@ rather than objective.
     1. Public discourse and political debates focus more on framed economic issues. 
     2. Economic policy preferences become polarized. 
     3. Voter behavior and policy support are driven more by media narratives than by actual economic conditions.
-
-## Reference
