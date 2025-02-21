@@ -37,7 +37,7 @@ in a citizen’s best interest.
 [^2]: Chen, S., Xiao, L., & Kumar, A. (2023). Spread of misinformation on social media: What contributes to it and how to combat it. 
 *Computers in Human Behavior*, *141*, 107643.
 
-[^3]: World Economic Forum. (2024, March 7). *Disinformation is a threat to our trust ecosystem. Experts explain how to curb it.* 
+[^3]: World Economic Forum. (2024). *Disinformation is a threat to our trust ecosystem. Experts explain how to curb it.* 
 Retrieved from https://www.weforum.org/stories/2024/03/disinformation-trust-ecosystem-experts-curb-it/
 
 
@@ -58,5 +58,5 @@ stronger beliefs are more likely to fall for misinformation that confirms their 
 as original beliefs are stronger[^4].
 
 [^4]: New York University. (2024). *Online misinformation most likely to be believed by ideological extremists*. 
-https://www.nyu.edu/about/news-publications/news/2024/september/online-misinformation-most-likely-to-be-believed-by-ideological-.html
+Retrieved from https://www.nyu.edu/about/news-publications/news/2024/september/online-misinformation-most-likely-to-be-believed-by-ideological-.html
 
