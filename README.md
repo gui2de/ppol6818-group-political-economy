@@ -6,11 +6,13 @@
 - Yosup Shin - Georgetown University
 - Yuxiang (Nathan) Su - Georgetown University
 
+# Can exposure to traditional media sources help those in the US who only get news from social media better identify misinformation?
+
 ## Overview
 In modern democracies, the media plays a crucial role in shaping public opinion on economic issues. While 
-economic realities such as inflation, unemployment, wage gaps, housing price increase and growth rates are driven by complex market forces 
-and policy divisions, the way these issues are presented in the media significantly influences how the 
-public perceives them. Politicians often leverage the media to frame economic conditions in ways that 
+economic realities such as inflation, unemployment, wage gaps, housing price increase and growth rates are 
+driven by complex market forces and policy divisions, the way these issues are presented in the media 
+significantly influences how the public perceives them. Politicians often leverage the media to frame economic conditions in ways that 
 align with their political agendas and expand their political capital [^1]. This strategic framing can 
 amplify economic concerns, mobilize political support, and shift public sentiment, sometimes 
 independently of actual economic conditions. As a result, public discourse may become detached from 
@@ -25,20 +27,36 @@ policy preferences. The data of this study is extracted from
 
 [^1]: Walgrave, S., & Van Aelst, P. (2016). Political agenda setting and the mass media. *In Oxford research encyclopedia of politics.*
 
+## Problem Statement
+Many US citizens get most of their information on current events through social media sites like X, Facebook, and Instagram [^2]. 
+The problem is that social media is rife with misinformation (unintentionally false information) and disinformation (intentionally false 
+information), making it easy for people to believe false information, thus affecting their ability to accurately participate in US politics 
+[^3]. This makes it easier for corrupt politicians to push false narratives in order to pursue particular agendas not 
+in a citizen’s best interest.
+
+[^2]: Chen, S., Xiao, L., & Kumar, A. (2023). Spread of misinformation on social media: What contributes to it and how to combat it. 
+*Computers in Human Behavior*, *141*, 107643.
+
+[^3]: World Economic Forum. (2024, March 7). *Disinformation is a threat to our trust ecosystem. Experts explain how to curb it.* 
+Retrieved from https://www.weforum.org/stories/2024/03/disinformation-trust-ecosystem-experts-curb-it/
+
 
 ## Theory of Change
-- **Input**: Exposure to economic content in different types of media 
-- **Mediating Factors**: 
-    1. *Framing Setting*: Media selects which economic issues to highlight and how to present them.
-    2. *Partisan Influence*: Politicians and media outlets frame economic issues to align with their agendas, influencing public perception of responsibility.
-    3. *Selective Exposure & Misinformation*:  Individuals engage with media that aligns with their views, 
-creating echo chambers and exposure to misleading or sensationalized narratives about economic conditions.
-- **Short-Term Outcomes**: 
-    1. Certain economic issues such as rising prices of goods become more salient in public discourse
-    2. Individuals perceive economic issues based on preexisting ideological biases and shift public figures to blame accordingly. 
-    3. Public perceptions of the economy become more shaped by emotionally charged and misleading narratives
-rather than objective. 
-- **Long-Term Outcomes**: 
-    1. Public discourse and political debates focus more on framed economic issues. 
-    2. Economic policy preferences become polarized. 
-    3. Voter behavior and policy support are driven more by media narratives than by actual economic conditions.
+
+We will conduct a randomized controlled trial of 3000 US citizens who identify as getting most of their news from a social media site. Our 
+intervention will begin with a baseline survey to all participants, asking them to identify if several statements made on economic and other 
+political issues are true or false. We will then give 1500 participants a free subscription to a traditional news source (AP News, New York 
+Times, Washington Post, etc) and encourage them to read a number of articles a week. After a few months, we will conduct an endline survey with 
+all participants, similar to the baseline where we ask them to identify statements as true or false. 
+
+We believe that those participants who engaged in traditional media sources will perform better on the survey than they did at the beginning of 
+the experiment, as well as perform better than the control group who did not engage with traditional media sources. We believe this intervention 
+will enable them to better identify misinformation when they come across it on social media in the future. 
+
+We expect to see a difference in results based on the participants, age, race, gender, and political beliefs. Studies have shown that those with 
+stronger beliefs are more likely to fall for misinformation that confirms their biases, so the results of the intervention will likely be weaker 
+as original beliefs are stronger[^4].
+
+[^4]: New York University. (2024). *Online misinformation most likely to be believed by ideological extremists*. 
+https://www.nyu.edu/about/news-publications/news/2024/september/online-misinformation-most-likely-to-be-believed-by-ideological-.html
+
