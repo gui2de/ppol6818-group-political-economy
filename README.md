@@ -7,37 +7,27 @@
 - Yuxiang (Nathan) Su - Georgetown University
 
 ## Problem Statement
-Many US citizens get most of their information on current events through social media sites like X, Facebook, and Instagram [^1]. 
-The problem is that social media is rife with misinformation (unintentionally false information) and disinformation (intentionally false 
-information). This widespread exposrue to inaccurate or misleading narratives making it easy for people to believe false information, thus 
-affecting their ability to accurately participate in US politics and creating an enviroment where politicians can more easily manupulate public 
-opinion for their own gain. [^2]. As a result, false narratives may shape economic debates, allowing corrupt actors to push agendas that do not 
-serve citizens' best interests while further distorting the public's understanding of key economic and political issues.
+Many US citizens now get most of their information on current events through social media sites like X, Facebook, and Instagram (Chen, 2023). This creates the  problem that social media is rife with misinformation (unintentionally false information) and disinformation (intentionally false information), making it easy for people to believe false information, thus affecting their ability to accurately participate in US politics (World Economic Forum 2024). Further studies have shown that communities with access to a local newspaper or news outlet show less political polarization, better engagement with local and national politics, and hold leaders and companies more accountable than in communities without a local paper (Stearns 2022). Unfortunately, since 2005, almost 2,900 local US newspapers have shut down, leaving many local communities without a local newspaper to get information from (Stonbely 2024). This leaves many US communities at risk of greater political polarization and a lack of reliable, trustworthy information. 
 
-[^1]: Chen, S., Xiao, L., & Kumar, A. (2023). Spread of misinformation on social media: What contributes to it and how to combat it. 
-*Computers in Human Behavior*, *141*, 107643.
-
-[^2]: World Economic Forum. (2024). *Disinformation is a threat to our trust ecosystem. Experts explain how to curb it.* 
-Retrieved from https://www.weforum.org/stories/2024/03/disinformation-trust-ecosystem-experts-curb-it/
+Chen, S., Xiao, L., & Kumar, A. (2022). Spread of misinformation on social media: What contributes to it and how to combat it. Computers in Human Behavior, 141, 107643. https://doi.org/10.1016/j.chb.2022.107643
+P. Darr, J. (2024, July 17). Does local news reduce polarization? Carnegie Corporation of New York. https://www.carnegie.org/our-work/article/does-local-news-reduce-polarization/
+Stonbely, S. (2024, March 7). Roughly half of counties have one local news outlet or less. Governing. https://www.governing.com/management-and-administration/roughly-half-of-counties-have-one-local-news-outlet-or-less
+Stearns, J. (2022, September 15). How We Know Journalism is Good for Democracy. Democracy Fund. https://democracyfund.org/idea/how-we-know-journalism-is-good-for-democracy/
+Serrano, J. (2024, May 7). Disinformation is a threat to our trust ecosystem. Experts explain how to curb it. World Economic Forum. 
 
 
 ## Theory of Change
-- Research Question: Can exposure to traditional media sources help those in the US who only get news from social media better identify misinformation?
+- Research Question: Can subsidizing a local newspaper encourage readership and help reduce political and ideological polarization in small US communities?
 
-We will conduct a randomized controlled trial of 3000 US citizens who identify as getting most of their news from a social media site. Our 
-intervention will begin with a baseline survey to all participants, asking them to identify if several statements made on economic and other 
-political issues are true or false. We will then give 1500 participants a free subscription to a traditional news source (AP News, New York 
-Times, Washington Post, etc) and encourage them to read a number of articles a week. After a few months, we will conduct an endline survey with 
-all participants, similar to the baseline where we ask them to identify statements as true or false. 
+We will conduct a randomized controlled trial(RCT) of several different US towns that do not have a local newspaper and test to see levels of political polarization and if those levels significantly decrease after a paper is established. Our intervention will proceed as follows:
 
-We believe that those participants who engaged in traditional media sources will perform better on the survey than they did at the beginning of 
-the experiment, as well as perform better than the control group who did not engage with traditional media sources. We believe this intervention 
-will enable them to better identify misinformation when they come across it on social media in the future. 
+1. Baseline survey: Prior to the intervention, a comprehensive baseline survey to all participants, asking them a series of questions to determine baseline political and ideological biases will be administered. 
+2. Intervention: We will then support the creation/establishment or revival of a local newspaper in some trial towns, as well as provide free physical subscriptions to community members. The contents and articles of the paper will be fully up to the paper once established. 
+3. Endline Survey: After a few months, a follow-up endline survey will be conducted with all participants to measure changes in political polarization, similar to the baseline to see how polarization has changed.
 
-We expect to see a difference in results based on the participants, age, race, gender, and political beliefs. Studies have shown that those with 
-stronger beliefs are more likely to fall for misinformation that confirms their biases, so the results of the intervention will likely be weaker 
-as original beliefs are stronger[^3].
+We believe that subsidizing a local newspaper and providing free physical copies to community members will help encourage the circulation and readership of said paper. By removing financial barriers like subscriptions and ad revenue, papers can focus on delivering meaningful stories that matter to their communities. On the consumer side, receiving a free physical newspaper directly at home may reduce barriers to readership and encourage habitual news consumption. We suspect there will be positive spillover effects within the town as some members take up readership faster than others and thus encourage similar behavior. Additionally, we expect positive spillover effects, wherein early adopters of the newspaper influence their peers, further expanding readership within the community.
 
-[^3]: New York University. (2024). *Online misinformation most likely to be believed by ideological extremists*. 
-Retrieved from https://www.nyu.edu/about/news-publications/news/2024/september/online-misinformation-most-likely-to-be-believed-by-ideological-.html
+We expect to see little to no change in political polarization in towns where a newspaper is not reestablished. 
+Our goal is to see what positive externalities are generated by a local newspaper. If successful, our experiment can provide arguments for the subsidization of a local newspaper to retain readership even with diminished ad revenues.
+Policy Implications: This study aims to generate empirical evidence on the externalities associated with local newspaper subsidization. If the intervention is successful, our findings could support policy recommendations advocating for government or philanthropic subsidies to sustain local journalism. Given the persistent decline in ad revenue that has historically funded local news organizations, alternative funding mechanisms may be necessary to ensure the continued provision of reliable, community-focused news (Darr, 2024). This research could inform future policies designed to strengthen local journalism and mitigate the effects of misinformation-driven polarization in democratic societies.
 
