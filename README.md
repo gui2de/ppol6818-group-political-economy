@@ -29,6 +29,7 @@ Given the nature of newspaper closures as a natural experiment, we will use a Di
 : Using data from the U.S. News Deserts Database and the Cooperative Election Study, we will examine the change of trajectories in survey respondents’ partisan identity before and after newspaper closures. Closure will be defined as a drop in total circulation to zero or the disappearance of a newspaper from the dataset. This dataset allows us to identify counties that transitioned into news deserts (i.e., areas with no local newspapers) over the past two decades.
 
 [The State of Local News Project, 2024](https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/)
+
 [Cumulative CES Common Content, 2024](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/II2DB6)
 
 2. Define Treatment and Control Groups  
