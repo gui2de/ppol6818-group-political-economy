@@ -33,8 +33,8 @@ Given the nature of newspaper closures as a natural experiment, we will use a Di
 [Cumulative CES Common Content, 2024](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/II2DB6)
 
 2. Define Treatment and Control Groups  
-- Treatment Group: Counties that used to have one or more local newspapers but lost them.
-- Control Group: Counties that retained at least one local newspaper.
+  * Treatment Group: Counties that used to have one or more local newspapers but lost them.
+  * Control Group: Counties that retained at least one local newspaper.
 
 - Hypothesis
 We believe that the closure of a town’s local newspaper will be associated with political polarization to increase over time. Without a local source of news, citizens will likely turn to other options like global papers, social media sources, or local word-of-mouth, all sources that are typically less reliable or less focused on local issues. As people turn to these alternative sources, we expect their behaviors to be affected by their contents, often driving higher probabilities of believing false information or less awareness of local issues most pertinent to their lives. If our theory is that local newspapers contribute positively to one’s political polarization and awareness of local issues, then we should see little to no change in towns where a newspaper continues to operate. 
