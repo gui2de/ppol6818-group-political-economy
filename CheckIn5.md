@@ -23,7 +23,7 @@ This study focuses on issue-based polarization as the primary outcome variable. 
 
 2. Participant Recruitment and Assignment  
     - Participants are selected only after quotas are met for key demographic and ideological strata to ensure sample balance.  
-    - The strata criteria are based on age, gender, race, education level, income brackets, and our polarization index. Also, we will ensure participants do not know about other participants during the whole [experiment][1].  
+    - The strata criteria are based on age, gender, race, education level, income brackets, and our polarization index. Also, we will ensure participants do not know about other participants during the whole [experiment][^1].  
     - Participants are grouped into small clusters (6–10 people) and randomized at the cluster level to treatment or control. Stratified randomization ensures that treatment and control arms are balanced across key variables.
 
 3. Midline Survey (Week 3–4)  
@@ -38,7 +38,7 @@ This study focuses on issue-based polarization as the primary outcome variable. 
     - This wave is to assess the long-term effects and persistence of any attitudinal changes following the intervention.  
     - Variables Collected: Issue-Based Polarization Index, using the same items and methodology to allow direct comparison across waves. Also includes reflections on lasting dialogue effects and continued engagement with political discussion.
 
-[1]: Treatment would be ineffective if participants already have conversation with people with different ideology.
+[^1]: Treatment would be ineffective if participants already have conversation with people with different ideology.
 
 # Bibliography
 
