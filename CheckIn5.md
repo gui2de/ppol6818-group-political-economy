@@ -17,33 +17,33 @@ Given our findings, we believe there is a research gap in testing the ability to
 Using SurveyCTO as the survey platform, data collection for this study will occur in four waves:
 
 ***Measurement of Political Polarization:***  
-This study focuses on issue-based polarization as the primary outcome variable. Participants are asked to rate their positions on a set of key policy issues (e.g., immigration, gun control, healthcare) and also provide a **feeling thermometer score** (0–100) indicating how strongly they feel about each position. These thermometer scores are aggregated into a **mean index** to capture each participant’s overall **ideological leaning and intensity**. This continuous index serves as the primary measure of political polarization over time.
-
----
+This study focuses on issue-based polarization as the primary outcome variable. Participants are asked to rate their positions on a set of key policy issues (e.g., immigration, gun control, healthcare) and also provide a feeling thermometer score (0–100) indicating how strongly they feel about each position. These thermometer scores are aggregated into a mean index to capture each participant’s overall ideological leaning and intensity. This continuous index serves as the primary measure of political polarization over time.
 
 1. Pre-intervention (Week 0)  
     - The first round is to collect demographic and attitudinal data for the purpose of selecting a balanced and diverse participant pool prior to randomization. All participants are drawn from Colorado to reduce coordination and travel costs associated with in-person dialogue sessions. Colorado is also selected for its high levels of political polarization, which allows for robust ideological diversity within the sample.  
-    - Variables Collected: Demographics (age, gender, race, education, income), Political Identity (party affiliation, ideological self-placement from far left 1 – far right 5 scale), Policy Preferences (stances on key political issues), Political Engagement (voting history and civic participation), and **Issue-Based Polarization Index** (mean of feeling thermometer scores on key issues).  
+    - Variables Collected: Demographics (age, gender, race, education, income), Issue-Based Polarization Index (mean of feeling thermometer scores on key issues).  
     - Each participant is assigned a unique ID for longitudinal tracking. Only participants who complete the baseline survey are eligible for recruitment.
 
 2. Participant Recruitment and Assignment  
     - Participants are selected only after quotas are met for key demographic and ideological strata to ensure sample balance.  
-    - The strata criteria are based on age, gender, race, education level, income brackets, and political ideology.  
+    - The strata criteria are based on age, gender, race, education level, income brackets, and our polarization index. Also, we will ensure participants do not know about other participants during the whole experiment[1]. 
     - Participants are grouped into small clusters (6–10 people) and randomized at the cluster level to treatment or control. Stratified randomization ensures that treatment and control arms are balanced across key variables.
 
 3. Midline Survey (Week 3–4)  
     - This wave is designed to monitor engagement, satisfaction, and early signs of change. It is a short-form survey focused on process evaluation.  
-    - Variables Collected: Session attendance (for treatment group), Perceived quality of dialogue sessions, Emotional responses and group cohesion, Motivation to continue participation, and **Issue-Based Polarization Index**.
+    - Variables Collected: Session attendance (for treatment group), Perceived quality of dialogue sessions, Emotional responses and group cohesion, Motivation to continue participation, and Issue-Based Polarization Index.
 
 4. Endline Data Collection (Week 6-8)  
     - Purpose: To measure primary outcomes post-intervention.  
     - Methods: Online survey via SurveyCTO.  
-    - Variables Collected: **Issue-Based Polarization Index**, using the same policy issue items and thermometer ratings from baseline. Additional items include session evaluation (treatment group only) and spillover exposure (e.g., whether participants discussed the program with others outside their group).
+    - Variables Collected: Issue-Based Polarization Index, using the same policy issue items and thermometer ratings from baseline. Additional items include session evaluation (treatment group only) and spillover exposure (e.g., whether participants discussed the program with others outside their group).
 
 5. Follow-up Survey (6 Months Post-Intervention)  
     - Purpose: To assess the long-term effects and persistence of any attitudinal changes following the intervention.  
     - Methods: Online survey distributed via email or SMS.  
-    - Variables Collected: **Issue-Based Polarization Index**, using the same items and methodology to allow direct comparison across waves. Also includes reflections on lasting dialogue effects and continued engagement with political discussion.
+    - Variables Collected: Issue-Based Polarization Index, using the same items and methodology to allow direct comparison across waves. Also includes reflections on lasting dialogue effects and continued engagement with political discussion.
+
+[1]: Treatment would be ineffective if participants already have conversation with people with different ideology.
 
 # Bibliography
 
