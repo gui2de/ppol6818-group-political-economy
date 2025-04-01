@@ -13,7 +13,32 @@ Another point of concern is the finding of Jong 2024, where they reported polari
 Given our findings, we believe there is a research gap in testing the ability to reduce polarization across a more stratified spectrum, by testing the effects of discussions between far left, center left, center, center right, and far right identifying participants. Most research only goes as far as to identify participants as left or right leaning, but we hope to find differences in the effects of conversations varying on the degree of polarization one group faces from another. 
 
 # Data Collection
-(insert write up here)
+
+Using SurveyCTO as the survey platform, data collection for this study will occur in four waves:
+
+1. Pre-intervention (Week 0)  
+    - The first round is to collect demographic and attitudinal data for the purpose of selecting a balanced and diverse participant pool prior to randomization. All participants are drawn from Colorado to reduce coordination and travel costs associated with in-person dialogue sessions. Colorado is also selected for its high levels of political polarization, which allows for robust ideological diversity within the sample.  
+    - Variables Collected: Demographics (age, gender, race, education, income), Political Identity (party affiliation, ideological self-placement from far left 1 – far right 5 scale), Political Attitude (positions on key policy items), Political Engagement (voting history and civic participation), and **Affective Polarization** (e.g., feeling thermometer ratings toward in-party and out-party).  
+    - Each participant is assigned a unique ID for longitudinal tracking. Only participants who complete the baseline survey are eligible for recruitment.
+
+2. Participant Recruitment and Assignment  
+    - Participants are selected only after quotas are met for key demographic and ideological strata to ensure sample balance.  
+    - The strata criteria are based on age, gender, race, education level, income brackets, and political ideology.  
+    - Participants are grouped into small clusters (6–10 people) and randomized at the cluster level to treatment or control. Stratified randomization ensures that treatment and control arms are balanced across key variables.
+
+3. Midline Survey (Week 3–4)  
+    - This wave is designed to monitor engagement, satisfaction, and early signs of change. It is a short-form survey focused on process evaluation.  
+    - Variables Collected: Session attendance (for treatment group), Perceived quality of dialogue sessions, Emotional responses and group cohesion, Motivation to continue participation, and **Affective Polarization**.
+
+4. Endline Data Collection (Week 6–8)  
+    - Purpose: To measure primary outcomes post-intervention.  
+    - Methods: Online survey via SurveyCTO.  
+    - Variables Collected: Affective Polarization (e.g., feeling thermometer toward opposing party and in-party). The same measures used in the pre-intervention survey are repeated to allow for direct comparison. Additional items include session evaluation (treatment group only) and spillover exposure (e.g., whether participants discussed the program with others outside their group).
+
+5. Follow-up Survey (2–6 Months Post-Intervention)  
+    - Purpose: To assess the long-term effects and persistence of any attitudinal changes following the intervention.  
+    - Methods: Online survey distributed via email or SMS.  
+    - Variables Collected: Affective Polarization, using the same measures from previous waves (e.g., feeling thermometer). Also includes questions about whether participants continued dialogue practices and their reflections on any lasting effects.
 
 # Bibliography
 
