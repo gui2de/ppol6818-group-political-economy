@@ -13,11 +13,8 @@ Another point of concern is the finding of Jong 2024, where they reported polari
 Given our findings, we believe there is a research gap in testing the ability to reduce polarization across a more stratified spectrum, by testing the effects of discussions between far left, center left, center, center right, and far right identifying participants. Most research only goes as far as to identify participants as left or right leaning, but we hope to find differences in the effects of conversations varying on the degree of polarization one group faces from another. 
 
 # Data Collection
-
-Using SurveyCTO as the survey platform, data collection for this study will occur in four waves:
-
-Measurement of Political Polarization:  
-This study focuses on issue-based polarization as the primary outcome variable. Participants are asked to rate their positions on a set of key policy issues (e.g., immigration, gun control, healthcare) and also provide a feeling thermometer score (0–100) indicating how strongly they feel about each position. These thermometer scores are aggregated into a mean index to capture each participant’s overall ideological leaning and intensity. This continuous index serves as the primary measure of political polarization over time.
+*Measurement of Political Polarization:*  
+This study focuses on issue-based polarization as the primary outcome variable. Participants are asked to rate their positions on a set of key policy issues (e.g., immigration, gun control, healthcare) and also provide a feeling thermometer score (0–100) indicating how strongly they feel about each position. These thermometer scores are aggregated into a mean index to capture each participant’s overall ideological leaning and intensity. This continuous index serves as the primary measure of political polarization over time. Using SurveyCTO as the survey platform, data collection for this study will occur in four waves:
 
 1. Pre-intervention (Week 0)  
     - The first round is to collect demographic and attitudinal data for the purpose of selecting a balanced and diverse participant pool prior to randomization. All participants are drawn from Colorado to reduce coordination and travel costs associated with in-person dialogue sessions. Colorado is also selected for its high levels of political polarization, which allows for robust ideological diversity within the sample.  
@@ -26,7 +23,7 @@ This study focuses on issue-based polarization as the primary outcome variable. 
 
 2. Participant Recruitment and Assignment  
     - Participants are selected only after quotas are met for key demographic and ideological strata to ensure sample balance.  
-    - The strata criteria are based on age, gender, race, education level, income brackets, and our polarization index. Also, we will ensure participants do not know about other participants during the whole experiment.[1]  
+    - The strata criteria are based on age, gender, race, education level, income brackets, and our polarization index. Also, we will ensure participants do not know about other participants during the whole [experiment][1].  
     - Participants are grouped into small clusters (6–10 people) and randomized at the cluster level to treatment or control. Stratified randomization ensures that treatment and control arms are balanced across key variables.
 
 3. Midline Survey (Week 3–4)  
