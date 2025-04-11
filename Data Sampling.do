@@ -104,6 +104,27 @@ gsort id
 export delimited  "Check1.csv"
 restore
 
+// Check 2
+// It is the process to see if all participants have been successfully assigned to a group
+
+* Check for missing group assignments
+count if missing(group)
+list id polarization if missing(group)
+
+* Verify all ids have valid group values (should be 1-5)
+tab group, missing
+count if group < 1 | group > 5 | missing(group)
+list id polarization if group < 1 | group > 5 | missing(group)
+
+* Check extremist flag consistency with group assignments
+count if is_extremist == 1 & !(group == 1 | group == 5)
+list id group is_extremist if is_extremist == 1 & !(group == 1 | group == 5)
+
+count if (group == 1 | group == 5) & is_extremist == 0
+list id group is_extremist if (group == 1 | group == 5) & is_extremist == 0
+
+* Simple summary report of group assignments
+tab group, missing
 
 //Check 3
 //Changing data on purpose. Now some random surveys will have a group assigned even though they shouldn't.
