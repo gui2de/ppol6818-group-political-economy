@@ -88,4 +88,34 @@ replace partner_group = 2 if group == 5 & pairing_group == 4  // Far Right → C
 replace partner_group = 5 if group == 1 & pairing_group == 5  // Polar Opposing: Far Left → Far Right
 replace partner_group = 1 if group == 5 & pairing_group == 5  // Polar Opposing: Far Right → Far Left
 
+//CODE ADDED BY RONIN BELOW
+//Check 1
+//Changing data on purpose. Now some people will be assigned group 1 even if they're survey data reports otherwise.
+gen random = runiform()
+replace group = 1 if random < .05
 
+//Presenting the results in a csv.
+sum if group == 1 & polarization < 2 
+sum if group == 1 & polarization > 2
+preserve
+keep if group == 1 & polarization > 2
+keep id group polarization
+gsort id
+export delimited  "Check1.csv"
+restore
+
+
+//Check 3
+//Changing data on purpose. Now some random surveys will have a group assigned even though they shouldn't.
+replace pairing_group = floor(runiform(0,5)) if is_extremist == 0 & random < .05
+
+//Presenting the results in a csv.
+sum pairing_group if is_extremist == 0 & pairing_group !=.
+preserve
+keep if is_extremist == 0 & pairing_group !=.
+keep id is_extremist pairing_group
+gsort id
+export delimited  "Check3.csv"
+restore
+
+//END OF CODE BY RONIN
