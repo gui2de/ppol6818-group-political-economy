@@ -1,4 +1,4 @@
-# Can moderated conversations between citizens of different political views reduce extreme political opinions and polarization over time?
+# Can moderated conversations between citizens of different political views reduce affective polarization over time?
 
 ## Contributors
 - Ronin McCobb - Georgetown University
@@ -8,15 +8,23 @@
 
 ## Introduction
 #### Problem Statement
-
-#### Background
+- Definition of affective polarization
+- The situation of affective polarization in the United States
+- Negative outcomes brought by affective polarization
 
 #### Literature Review
+- Potential causes affective polarization in the United States (fundemental reasons or direct reasons. Fundemental reason could be neoliberal policy since 1970s -> inequality, globalization, immigrants -> divergence between people; direct reasons could be low investment in social infrastructure and emergence of social media.)
+- How to mitigate affective polarization? --> communities and social infrastructure bring people togethor to have cross party coversations
 
 #### Motivations
 <p>This research is driven by several gaps in the existing literature regarding cross-partisan dialogue and its potential for reducing political polarization. While prior studies demonstrate that brief cross-partisan interactions can temporarily reduce affective polarization (e.g., dislike of political out-groups), these effects often diminish over time. For instance, Rossiter and Carlson (2024) found that short conversations between Republicans and Democrats reduced polarization immediately after the contentious 2020 U.S. election, but noted that these effects were not sustained long-term (p. 1610). Similarly, De Jong (2024) highlighted that cross-partisan discussions among UK voters reduced polarization, though less effectively when participants disagreed on divisive issues, suggesting limitations in one-off interventions. To address these shortcomings, this study tests whether sustained engagement—through biweekly discussions over three months—can produce more durable depolarization effects.  </p>
 <p>Another motivation stems from the role of moderation in facilitating productive dialogue. Previous studies have shown that unmoderated discussions often lead to conflict or reinforce existing divisions, particularly when contentious topics are discussed (Santoro &amp; Broockman, 2022). Moderated discussions, however, create a safer environment for participants to engage in meaningful conversations by establishing norms of mutual respect and active listening (Santoro &amp; Broockman, 2022). This study incorporates professional facilitation to guide discussions and mitigate risks of adversarial interactions.  </p>
 <p>Finally, most prior research focuses on reducing affective polarization but neglects other dimensions of polarization, such as ideological rigidity or behavioral spillover effects. For example, Fang et al. (2025) found that in-person conversations reduced animosity but did not examine whether participants became more open to revising their policy preferences or whether these changes influenced broader social networks. This study addresses these gaps by explicitly measuring ideological rigidity and examining how dialogue influences participants’ attitudes within their communities.</p>
+
+## Background (with data vis)
+- Affective polarization
+- Factors that correlated with affective polarization (like the relative quantity of social infrastracture and local newspaper are declined, while privatization & economic inequality, university tuition, the users of social media are increasing)
+- Outcomes of polarization (populism backlash, partisan policy, less democracy)
 
 ## Research Design
 <p>In order to determine whether organized, moderated cross-partisan conversations lessen political polarization in American communities, this research employs a randomized controlled trial (RCT) to evaluate whether structured, moderated cross-partisan discussions reduce political polarization in U.S. communities. Participants (<em>N</em> ≈####) will be recruited from (how many? Or in each state) towns based on their self-identified ideological leanings (far-left, center-left, center, center-right, and far-right).<br>Following completion of a baseline survey that gauges affective polarization (negative out-group sentiment), ideological rigidity (resistance to changing policy preferences), and willingness to compromise, participants will be assigned to:</p>
@@ -37,10 +45,15 @@
 
 #### Simulation and Initial Results
 
-## Intervention
+## Intervention (Has to be detailed plan)
+- What is our treatment groups and control groups?
+- Why we design like this?
 
 #### Treatment
+- How we gonna conduct the intervention on treatment group and control group?
+- What is the process? (e.g. How are we going to prevent participants not talk to each other during experiment?)
 
 #### Outcomes of Interest
+- Measurement of our outcome variable
 
 ## Future Considerations
