@@ -51,7 +51,7 @@
 
 #### Treatment
 - How we gonna conduct the intervention on treatment group and control group?
-- What is the process? (e.g. How are we going to prevent participants not talk to each other during experiment?)
+- What is the process? (e.g. How can we make conversations to be "moderated"? What topics participants are going to discuss? How are we going to prevent participants not talk to each other during experiment?)
 
 #### Outcomes of Interest
 - Measurement of our outcome variable
